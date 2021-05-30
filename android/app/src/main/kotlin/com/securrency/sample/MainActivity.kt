@@ -1,0 +1,6 @@
+package com.securrency.sample
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
